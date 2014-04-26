@@ -1,0 +1,3 @@
+[submodule "vendor/jnicol/standalone-phpenkoder"]
+	path = vendor/jnicol/standalone-phpenkoder
+	url = git@github.com:jnicol/standalone-phpenkoder.git
